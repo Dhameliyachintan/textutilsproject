@@ -60,7 +60,6 @@ function App() {
     //     }
     //   }
     // }
-    
     const togglemode = () => {
       if(darkmode === "light") {
         setDarkmode("dark")
